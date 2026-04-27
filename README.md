@@ -5,7 +5,7 @@ Need help with Unzip Air? You are in the right place.
 ## Contact Support
 If you have encountered a bug, have a feature request, or need further assistance, please contact us:
 * **Email:** [michael.yang.4931@gmail.com]
-* **Issue Tracker:** [https://github.com/michaelyang4931-hash/unzipair/issues]
+* **Issue Tracker:** [https://github.com/michaelyang4931-hash/Unzip-Air---Support/issues]
 
 ---
 
